@@ -1,0 +1,10 @@
+# Repo-ul public conține doar codul și configurația.
+# Content/ și Sunete/ au asset-uri de pe Fab, Quixel și Freesound, care nu se pot redistribui.
+/*
+!/Source/
+!/Config/
+!/Simulator.uproject
+!/README.md
+!/LICENSE
+!/.gitignore
+!/.gitattributes
